@@ -6,3 +6,10 @@ Precios-area-y-produccion-de-cafe-2025.xlsx
 https://federaciondecafeteros.org/wp/estadisticas-cafeteras/
 
 
+NASA Power
+https://power.larc.nasa.gov/api/pages/#/Data%20Requests/single_point_data_request_api_temporal_hourly_point_get
+Parámetros -> buscar 'Parameters Dictionary'
+https://power.larc.nasa.gov/parameters/
+Luego en cada parámetro, entrar en 'expand card' (botón de la más derecha) y tomar el nombre del parámetro
+
+
